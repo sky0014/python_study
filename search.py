@@ -2,8 +2,6 @@ import logging
 import os
 import sys
 
-__author__ = 'wangxingwei'
-
 search_result = []
 
 
